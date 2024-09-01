@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bigboss2362
+- 👀 I’m interested in data analysis, data science, 
+- 🌱 I’m currently learning Sql and Phyton
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can touch me with https://www.instagram.com/evrenaaydin/
+- ⚡ Fun fact: ım rare
