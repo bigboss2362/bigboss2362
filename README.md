@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigboss2362
+- 👋 Hi, I’m @evren
 - 👀 I’m interested in data analysis, data science, 
 - 🌱 I’m currently learning Sql and Phyton
 - 💞️ I’m looking to collaborate on ...
